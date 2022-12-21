@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import numpy as np
 import math
+import time
 
 # Create random input and output data
 x = np.linspace(-math.pi, math.pi, 2000)
